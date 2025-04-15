@@ -1,0 +1,19 @@
+Name,Input,Output
+Gemini 2.0 Flash-Lite,$0.075,$0.30
+Mistral 3.1 Small,$0.10,$0.30
+Gemini 2.0 Flash,$0.10,$0.40
+ChatGPT 4.1-nano,$0.10,$0.40
+DeepSeek v3 (old),$0.14,$0.28
+ChatGPT 4o-mini,$0.15,$0.60
+DeepSeek v3,$0.27,$1.10
+Grok 3-mini,$0.30,$0.50
+ChatGPT 4.1-mini,$0.40,$1.60
+DeepSeek r1,$0.55,$2.19
+ChatGPT o3-mini,$1.10,$4.40
+ChatGPT 4.1,$2.00,$8.00
+ChatGPT 4o,$2.50,$10.00
+Claude 3.5 Sonnet,$3.00,$15.00
+Grok 3,$3.00,$15.00
+ChatGPT o1,$15.00,$60.00
+ChatGPT 4.5,$75.00,$150.00
+O1 Pro,$150.00,$600.00 
